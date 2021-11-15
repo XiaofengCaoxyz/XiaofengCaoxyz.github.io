@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+Ph.D. student
+Australian Artificial Intelligence Institute (AAII),
+University of Technology Sydney (UTS)
 
-You can use the [editor on GitHub](https://github.com/XiaofengCaoxyz/XiaofengCaoxyz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+E-mail: Xingrui.Yu [at] student.uts.edu.au
+[Google Scholar] [Github]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Research
+My current research interest:
+Imitation Learning
 
-### Markdown
+Weakly-supervised Learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Selected Recent Publications
+X. Yu, Y. Lyu and I.W. Tsang. Intrinsic Reward Driven Imitation Learning via Generative Model. In International Conference on Machine Learning, 2020, [PDF][Code][Slides][WebPage].
 
-```markdown
-Syntax highlighted code block
+X. Yu, B. Han, J. Yao, G. Niu, I.W. Tsang and M. Sugiyama. How does disagreement help generalization against label corruption? In International Conference on Machine Learning, 2019, [PDF][Code].
 
-# Header 1
-## Header 2
-### Header 3
+B. Han, Q. Yao, X. Yu, G. Niu, M. Xu, W. Hu, I.W. Tsang and M. Sugiyama. Co-teaching: Robust training of deep neural networks with extremely noisy labels. In Advances in Neural Information Processing Systems, 2018, [PDF][Code].
 
-- Bulleted
-- List
+X. Yu, H. Zhang, C. Luo, H. Qi and P. Ren. Oil spill segmentation via adversarial f-divergence learning. IEEE Transactions on Geoscience and Remote Sensing, 56(9): 4973-4988, 2018, [PDF][Code].
 
-1. Numbered
-2. List
+Professional Service
+Conference Reviewer/Program Committee:
 
-**Bold** and _Italic_ and `Code` text
+NeurIPS-2019, ACML-2019
 
-[Link](url) and ![Image](src)
-```
+AAAI-2020, ICML-2020, IJCAI-PRICAI-2020, NeurIPS-2020, ACML-2020
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ICLR-2021
 
-### Jekyll Themes
+Journal Reviewer:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiaofengCaoxyz/XiaofengCaoxyz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+IEEE TPAMI
 
-### Support or Contact
+Machine Learning
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Awards
+ICML-2019 Travel Award
+
+Brief Biography
+Xingrui Yu is currently a second-year Ph.D. student at Australian Artificial Intelligence Institute in University of Technology Sydney(UTS), supervised by Prof. Ivor W. Tsang. Before that, he received his B.Eng degree in Electronic Information Enginering and M.Eng degree in Information and Communication Engineering from China University of Petroleum (East China) in 2015 and 2018, respectively.
